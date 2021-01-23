@@ -1,0 +1,11 @@
+educacion_id,ultimo_grado_estudios_id,habla_segundo_idioma,monto_mensual_asistencia,tipo_labor_id,labor_condicion_id,tiene_seguro,labor_desc
+NN,N,0,3500,O,M,f,Carnicero
+NN,N,0,3000,O,R,f,Panadero
+PS,P,1,1000,O,R,f,Comerciante
+SS,S,1,3000,O,R,f,Carpintero
+US,U,1,12000,P,R,t,Reportero
+US,U,1,0,P,B,t,Contador
+US,U,1,4000,P,B,t,Arquitecto
+UN,U,0,0,P,B,f,Veterinario
+MN,M,0,0,P,B,t,Abogado
+DS,D,1,0,P,B,t,Medico
