@@ -1,4 +1,4 @@
-labor_condicion_desc,count
-MALA,1
-REGULAR,1
-BUENA,1
+ano,mes_id,labor_condicion_desc,count
+2018,1,BUENA,1
+2019,13,BUENA,2
+2020,25,BUENA,2
